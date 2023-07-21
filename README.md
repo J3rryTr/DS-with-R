@@ -1,7 +1,6 @@
 # DS_with_R
-# J3rryTr
+* J3rryTr
 
-========================================
 # Content
 * Basic R
 * Data visualization
