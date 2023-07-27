@@ -1,6 +1,6 @@
 # R Basics: fundamental of R language
 * This course learn about R basic programming 
-# Content this section
+# Course overview
     * Section 1: R Basics, functions and Data Types
     * Section 2: Vectors, Sorting
     * Section 3: Indexing, Data Wrangling, Plots
@@ -13,3 +13,4 @@
     * Importing data
 # Attention
 * Exercise on datacamp can following instruction
+* Tran Le Mink
