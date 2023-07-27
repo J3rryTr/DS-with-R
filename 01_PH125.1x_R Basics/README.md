@@ -1,6 +1,5 @@
 # R Basics: fundamental of R language
 * This course learn about R basic programming 
-======================================================
 # Content this section
     * Section 1: R Basics, functions and Data Types
     * Section 2: Vectors, Sorting
