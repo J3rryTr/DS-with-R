@@ -13,4 +13,3 @@
     * Importing data
 # Attention
 * Exercise on datacamp can following instruction
-* Tran Le Mink
